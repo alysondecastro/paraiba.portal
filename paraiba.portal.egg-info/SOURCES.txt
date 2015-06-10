@@ -1,0 +1,15 @@
+README.txt
+setup.cfg
+setup.py
+paraiba/__init__.py
+paraiba.portal.egg-info/PKG-INFO
+paraiba.portal.egg-info/SOURCES.txt
+paraiba.portal.egg-info/dependency_links.txt
+paraiba.portal.egg-info/entry_points.txt
+paraiba.portal.egg-info/namespace_packages.txt
+paraiba.portal.egg-info/not-zip-safe
+paraiba.portal.egg-info/paster_plugins.txt
+paraiba.portal.egg-info/requires.txt
+paraiba.portal.egg-info/top_level.txt
+paraiba/portal/__init__.py
+paraiba/portal/tests.py
