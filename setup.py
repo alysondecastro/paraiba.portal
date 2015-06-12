@@ -26,6 +26,8 @@ setup(name='paraiba.portal',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'collective.nitf',
+          'collective.cover',
           # -*- Extra requirements: -*-
       ],
       extras_require={
